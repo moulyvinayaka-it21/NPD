@@ -1,10 +1,6 @@
 # AUTOMATIC LICENSE PLATE RECOGNITION using YOLOV5 and  EASYOCR
 - This repo has information about the creation of the AUTOMATIC LICENSE PLATE RECOGNITION using YOLOV5 and  EASYOCR
-- deploy.py has code for both detection on image and video.
-- Official yolov5 repo: https://github.com/ultralytics/yolov5
-- How to train custom yolov5: https://www.youtube.com/watch?v=12UoOlsRwh8&ab_channel=coderzero
-- How to deploy yolov5 : https://youtu.be/iuByus7SCEA
-- Detailed explanation about this project: https://youtu.be/BpXlQwcx67s
+
 
 
 ### step-1: Install pytorch
